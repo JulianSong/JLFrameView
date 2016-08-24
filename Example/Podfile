@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JLFrameView_Example' do
+  pod 'JLFrameView', :path => '../'
+
+  target 'JLFrameView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
