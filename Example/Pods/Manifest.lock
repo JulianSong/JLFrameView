@@ -1,0 +1,16 @@
+PODS:
+  - JLFrameView (0.1.0)
+
+DEPENDENCIES:
+  - JLFrameView (from `../`)
+
+EXTERNAL SOURCES:
+  JLFrameView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JLFrameView: 201c5c6faf5d9522f82a36400ea9d5fce91c05c8
+
+PODFILE CHECKSUM: 36d96259c06962ec3e3e14584467de7336555591
+
+COCOAPODS: 1.0.0.beta.3

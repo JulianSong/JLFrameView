@@ -5,10 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/JLFrameView.svg?style=flat)](http://cocoapods.org/pods/JLFrameView)
 [![Platform](https://img.shields.io/cocoapods/p/JLFrameView.svg?style=flat)](http://cocoapods.org/pods/JLFrameView)
 
+Play image sequence use CoreAnimation.
+
+## Screen Shots
+<img src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/JLFrameview_Screenshot_1.gif" width="375" height="667" />
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 
 ## Installation

@@ -1,0 +1,6 @@
+framework module JLFrameView {
+  umbrella header "JLFrameView-umbrella.h"
+
+  export *
+  module * { export * }
+}
