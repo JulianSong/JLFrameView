@@ -8,8 +8,7 @@
 Play image sequence use CoreAnimation.
 
 ## Screen Shots
-<video src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/JLFrameview_Screenshot_1.mov"></video>
-
+<img src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/JLFrameview_Screenshot_1.gif" width="375" height="667" />
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
