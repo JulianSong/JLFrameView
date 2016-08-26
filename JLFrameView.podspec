@@ -7,7 +7,7 @@ Play image sequence use CoreAnimation.
 DESC
 s.homepage         = 'https://github.com/JulianSong/JLFrameView'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'junliang.song' => 'junliang.song@dianping.com' }
+s.author           = { 'junliang.song' => 'geeksong@gmail.com' }
 s.source           = { :git => 'https://github.com/JulianSong/JLFrameView.git', :tag => s.version.to_s }
 s.ios.deployment_target = '8.0'
 s.source_files = 'JLFrameView/Classes/*'
