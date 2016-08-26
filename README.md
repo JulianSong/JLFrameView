@@ -8,9 +8,7 @@
 Play image sequence use CoreAnimation.
 
 ## Screen Shots
-<img src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/JLFrameview_Screenshot_1.gif" width="375" height="667" />
-<video src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/
-.gif"></video>
+<video src="https://github.com/JulianSong/JLFrameView/blob/master/Example/screenshots/JLFrameview_Screenshot_1.mov"></video>
 
 ## Example
 
