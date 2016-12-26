@@ -1,0 +1,9 @@
+*.* linguist-language=Objective-C
+*.podspec linguist-language=Objective-C
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
+*.yml linguist-language=Objective-C
+*.sh linguist-language=Objective-C 
+*.lock linguist-language=Objective-C
+*.xcconfig linguist-language=Objective-C
+*.plist linguist-language=Objective-C
